@@ -6,7 +6,7 @@ I use node v10.21.0 for this project, though I imagine most versions after such 
 
 Grab this project and run "npm install" command first in its directory.
 
-The input JSON Schema file should be in the project's main directory and named: unifiedshipmentobject.schema.json
+The input JSON Schema file should be put in the project's main directory and named: unifiedshipmentobject.schema.json
 
 The output file should be in the project's main directory after running the below command and will be unifiedShipmentObject.d.ts
 
